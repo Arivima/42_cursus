@@ -1,34 +1,25 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   inter.c                                            :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: avilla-m <marvin@42.fr>                    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/05/18 17:29:40 by avilla-m          #+#    #+#             */
-/*   Updated: 2021/05/18 17:44:31 by avilla-m         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include <unistd.h>
 
-int	main(int ac, char **av)
+int main(int ac, char ** av)
 {
+	char 	used[200];
 	int		i;
-	char	used[127];
 
 	if (ac == 3)
 	{
 		i = 0;
-		while (used[i])
+		while (i < 200)
 			used[i++] = 0;
 		i = 0;
 		while (av[2][i])
-			used[(unsigned char) av[2][i++]] = 1;
+		{
+			used[(unsigned char) av[2][i]] = 1;
+			i++;
+		}
 		i = 0;
 		while (av[1][i])
 		{
-			if (used[(unsigned char) av[1][i]])
+			if (used[(unsigned char) av[1][i]] == 1)
 			{
 				write(1, &av[1][i], 1);
 				used[(unsigned char) av[1][i]] = 0;
