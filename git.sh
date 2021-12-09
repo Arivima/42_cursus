@@ -2,7 +2,7 @@ echo "Pushing to Github---------------------------"
 rm .DS_Store
 echo "--------------------------------------------"
 echo "\nAdding--------------------------------------\n"
-git add *
+git add -A
 echo "\nShowing status------------------------------\n"
 git status
 echo "\nCommitting----------------------------------\n"
