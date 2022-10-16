@@ -1,3 +1,27 @@
 [submodule "1_libft"]
 	path = 1_libft
 	url = https://github.com/Arivima/42_libft.git
+[submodule "2_ft_printf"]
+	path = 2_ft_printf
+	url = https://github.com/Arivima/42_ft_printf.git
+[submodule "3_get_next_line"]
+	path = 3_get_next_line
+	url = https://github.com/Arivima/42_get_next_line.git
+[submodule "7_fdf"]
+	path = 7_fdf
+	url = https://github.com/Arivima/42_fdf.git
+[submodule "6_push_swap"]
+	path = 6_push_swap
+	url = https://github.com/Arivima/42_push_swap.git
+[submodule "8_pipex"]
+	path = 8_pipex
+	url = https://github.com/Arivima/42_pipex.git
+[submodule "12_cub3D"]
+	path = 12_cub3D
+	url = https://github.com/Arivima/42_Cub3D.git
+[submodule "9_minishell"]
+	path = 9_minishell
+	url = https://github.com/Arivima/42_minishell.git
+[submodule "11_philosophers"]
+	path = 11_philosophers
+	url = https://github.com/Arivima/42_philosophers.git
