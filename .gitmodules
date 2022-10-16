@@ -1,0 +1,3 @@
+[submodule "1_libft"]
+	path = 1_libft
+	url = https://github.com/Arivima/42_libft.git
