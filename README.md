@@ -1,7 +1,18 @@
-1. libft | 100% Moulinette | norminette V2
-2. ft_printf | 104% Moulinette | norminette V3 (bonus : all flags + 'n'conversion)
-3. get_next_line | 115% Moulinette | norminette V3 (all bonus)
-5. exam02 | pass examtesters
-6. push_swap | 86% | no bonus | norminette V3
-7. fdf | 125% | rotation, zoom, translation, color gradation, color change, projection change, reset | norminette V3
-8. pipex | 100% | no bonus| norminette V3
+42_cursus avilla-m
+
+0.  Piscine C
+1.  libft           | 100%            | norm V2 | no bonus  
+2.  ft_printf       | 104%            | norm V3 | bonus : all flags + 'n'conversion
+3.  get_next_line   | 115%            | norm V3 | all bonus
+4.  netwhat         | 100%
+5.  exam02          | 100%
+6.  push_swap       | 86%             | norm V3 | no bonus  
+7.  fdf             | 125%            | norm V3 | rotation, zoom, translation, color gradation, color change, projection change, reset 
+8.  pipex           | 100%            | norm V3 | no bonus
+9.  minishell       | 101%            | norm V3
+10. exam03          | 100%
+11. philosophers    | 125%            | norm V3
+12. cub3D           | 125% Oustanding | norm V3
+13. Piscine CPP     |
+14. netpractice     |
+15. ft_containers   |
