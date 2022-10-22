@@ -13,6 +13,6 @@
 10. exam03          | 100%
 11. philosophers    | 125%            | norm V3
 12. cub3D           | 125% Oustanding | norm V3
-13. Piscine CPP     |
+13. Piscine CPP     | 100%
 14. netpractice     |
 15. ft_containers   |
