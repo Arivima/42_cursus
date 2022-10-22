@@ -25,3 +25,6 @@
 [submodule "11_philosophers"]
 	path = 11_philosophers
 	url = https://github.com/Arivima/42_philosophers.git
+[submodule "13_Piscine_CPP"]
+	path = 13_Piscine_CPP
+	url = https://github.com/Arivima/42_Piscine_CPP.git
