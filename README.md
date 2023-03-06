@@ -15,5 +15,5 @@
 12. exam04          | 100%
 13. cub3D           | 125% Oustanding | norm V3
 14. Piscine CPP     | 100%
-15. netpractice     |
-16. ft_containers   |
+15. netpractice     | 100%
+16. ft_containers   | 125%
