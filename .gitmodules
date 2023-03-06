@@ -34,3 +34,12 @@
 [submodule "14_ft_containers"]
 	path = 14_ft_containers
 	url = https://github.com/Arivima/42_ft_containers.git
+[submodule "16_ft_containers"]
+	path = 16_ft_containers
+	url = https://github.com/Arivima/42_ft_containers.git
+[submodule "14_piscine_CPP"]
+	path = 14_piscine_CPP
+	url = https://github.com/Arivima/42_Piscine_CPP.git
+[submodule "13_cub3D"]
+	path = 13_cub3D
+	url = https://github.com/Arivima/42_Cub3D.git
