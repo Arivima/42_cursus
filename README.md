@@ -16,4 +16,4 @@
 13. cub3D           | 125% Oustanding | norm V3
 14. Piscine CPP     | 100%
 15. netpractice     | 100%
-16. ft_containers   | 125%
+16. ft_containers   | 125% Oustanding
