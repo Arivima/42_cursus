@@ -43,3 +43,6 @@
 [submodule "13_cub3D"]
 	path = 13_cub3D
 	url = https://github.com/Arivima/42_Cub3D.git
+[submodule "17_inception"]
+	path = 17_inception
+	url = https://github.com/Arivima/42_inception.git
