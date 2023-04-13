@@ -22,4 +22,5 @@
 
 This git is listing all project done at 42 Roma  
 Redirects to each project own git using git submodules | [How to add submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
-git submodule add [url] name
+
+git submodule add [url] [name]
