@@ -1,7 +1,5 @@
 42_cursus avilla-m
 
-    exams
-
 0.  Piscine C
 1.  libft           | 100%            | norm V2 | no bonus  
 2.  ft_printf       | 104%            | norm V3 | bonus : all flags + 'n'conversion
