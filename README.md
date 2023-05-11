@@ -1,5 +1,7 @@
 42_cursus avilla-m
 
+    exams
+
 0.  Piscine C
 1.  libft           | 100%            | norm V2 | no bonus  
 2.  ft_printf       | 104%            | norm V3 | bonus : all flags + 'n'conversion
@@ -18,6 +20,9 @@
 15. netpractice     | 100%
 16. ft_containers   | 125% Outstanding
 17. inception       | 100% Outstanding
+18. exam05          | 100%
+19. Webserv
+20. Transcendence
 
 
 This git is listing all project done at 42 Roma  
