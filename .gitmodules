@@ -46,3 +46,6 @@
 [submodule "17_inception"]
 	path = 17_inception
 	url = https://github.com/Arivima/42_inception.git
+[submodule "42_exams"]
+	path = 42_exams
+	url = https://github.com/Arivima/42_exams.git
