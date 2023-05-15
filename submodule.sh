@@ -1,3 +1,9 @@
+# https://gist.github.com/gitaarik/8735255
+# https://git-scm.com/book/en/v2/Git-Tools-Submodules
+# https://chrisjean.com/git-submodules-adding-using-removing-and-updating/
+
+
+
 echo "git submodule update --init --recursive;"            && git submodule update --init --recursive;
 echo "checking out of 01_libft"            && cd 01_libft         && git checkout master && cd ..;
 echo "checking out of 02_ftprintf"         && cd 02_ftprintf      && git checkout master && cd ..;
