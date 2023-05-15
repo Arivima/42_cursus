@@ -1,7 +1,7 @@
 # 42_cursus  
 intra : <i>avilla-m</i>
 
-| # | Project | grade | norm | bonus | 
+| # | Project | Grade | Norm | Bonus | 
 | :-: | :- | :-: | - | - |
 | -|[exams](https://github.com/Arivima/42_exams.git)|
 | 00 | Piscine C |-|-|-|
