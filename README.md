@@ -6,8 +6,8 @@ intra : <i>avilla-m</i>
 | -|[exams](https://github.com/Arivima/42_exams.git)|
 | 00 | Piscine C |-|-|-|
 | 01 | [libft](https://github.com/Arivima/42_libft.git)<t>|100%|V2|-|
-| 02 | [ft_printf](https://github.com/Arivima/42_ft_printf.git)|104%|V3| all flags + 'n'conversion|
-| 03 | [get_next_line](https://github.com/Arivima/42_get_next_line.git)|115%| V3 | all bonus|
+| 02 | [ft_printf](https://github.com/Arivima/42_ft_printf.git)|104%|V3| all flags + 'n'conversion |
+| 03 | [get_next_line](https://github.com/Arivima/42_get_next_line.git)|115%| V3 | all bonus |
 | 04 | [netwhat](https://github.com/Arivima/42_netwhat.git)|100%|-|-|
 | 05 | [exam02](https://github.com/Arivima/42_exams/tree/main/exam02)| 100% |-|-|
 | 06 | [push_swap](https://github.com/Arivima/42_push_swap.git)|86%| V3 | -  |
@@ -23,8 +23,8 @@ intra : <i>avilla-m</i>
 | 16 | [ft_containers](https://github.com/Arivima/42_ft_containers.git)|125% :star2:|-|-|
 | 17 | [inception](https://github.com/Arivima/42_inception.git)|100% :star2:|-|-|
 | 18 | [exam05](https://github.com/Arivima/42_exams/tree/main/exam05)|100%|-|-|
-| 19 | Webserv|-|-|-|
-| 20 | Transcendence|-|-|-|
+| 19 | Webserv|100% :star2:|-| multiple cgi |
+| 20 | ft_transcendence|-|-|-|
 
   Outstanding : :star2: 
   
