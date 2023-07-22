@@ -1,5 +1,5 @@
 # 42_cursus  
-intra : <i>avilla-m</i>
+intra : [<i>avilla-m</i>](https://profile.intra.42.fr/users/avilla-m)
 
 | # | Project | Grade | Norm | Bonus | 
 | :-: | :- | :-: | - | - |
