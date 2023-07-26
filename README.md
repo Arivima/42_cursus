@@ -17,7 +17,7 @@ intra : [<i>avilla-m</i>](https://profile.intra.42.fr/users/avilla-m)
 | 10 | [exam03](https://github.com/Arivima/42_exams/tree/main/exam03)|100%|-|-|
 | 11 | [philosophers](https://github.com/Arivima/42_philosophers.git)|125%| V3| version with semaphores and forks |
 | 12 | [exam04](https://github.com/Arivima/42_exams/tree/main/exam04)|100%|-|-|
-| 13 | [cub3D](https://github.com/Arivima/42_Cub3D.git)|125% :star2: | V3| - | wall collision, minimap, door open/close, mouse rotation |
+| 13 | [cub3D](https://github.com/Arivima/42_Cub3D.git)|125% :star2: | V3| wall collision, minimap, door open close, mouse rotation |
 | 14 | [Piscine CPP](https://github.com/Arivima/42_Piscine_CPP.git)|100%|-|-|
 | 15 | [netpractice](https://github.com/Arivima/42_NetPractice.git)|100%|-|-|
 | 16 | [ft_containers](https://github.com/Arivima/42_ft_containers.git)|125% :star2:|-| Red-Black tree, set |
