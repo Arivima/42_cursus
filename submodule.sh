@@ -2,7 +2,7 @@
 # https://git-scm.com/book/en/v2/Git-Tools-Submodules
 # https://chrisjean.com/git-submodules-adding-using-removing-and-updating/
 
-
+# script to update alll individual projects
 
 echo "git submodule update --init --recursive;"            && git submodule update --init --recursive;
 echo "checking out of 01_libft"            && cd 01_libft         && git checkout master && cd ..;
