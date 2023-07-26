@@ -37,4 +37,4 @@ Add a submodule</i>
 
 Update all projects 
 
-    ./submodules.sh
+    ./update_all.sh
