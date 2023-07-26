@@ -3,7 +3,7 @@ intra : [<i>avilla-m</i>](https://profile.intra.42.fr/users/avilla-m)
 
 | # | Project | Grade | Norm | Bonus | 
 | :-: | :- | :-: | - | - |
-| -|[exams](https://github.com/Arivima/42_exams.git)|
+| -|[all_exams](https://github.com/Arivima/42_exams.git)|
 | 00 | Piscine C |-|-|-|
 | 01 | [libft](https://github.com/Arivima/42_libft.git)<t>|100%|V2|-|
 | 02 | [ft_printf](https://github.com/Arivima/42_ft_printf.git)|104%|V3| all flags + 'n'conversion |
@@ -24,7 +24,7 @@ intra : [<i>avilla-m</i>](https://profile.intra.42.fr/users/avilla-m)
 | 17 | [inception](https://github.com/Arivima/42_inception.git)|100% :star2:|-|-|
 | 18 | [exam05](https://github.com/Arivima/42_exams/tree/main/exam05)|100%|-|-|
 | 19 | [webserv](https://github.com/Arivima/42_webserv.git)|110% :star2:|-| multiple cgi |
-| 20 | [exam05](https://github.com/Arivima/42_exams/tree/main/exam06)|-|-|-|
+| 20 | [exam06](https://github.com/Arivima/42_exams/tree/main/exam06)|-|-|-|
 | 21 | ft_transcendence|-|-|-|
 
   Outstanding : :star2: 
