@@ -43,3 +43,6 @@
 [submodule "___exams"]
 	path = ___exams
 	url = https://github.com/Arivima/42_exams.git
+[submodule "19_webserv"]
+	path = 19_webserv
+	url = https://github.com/Arivima/42_webserv.git
