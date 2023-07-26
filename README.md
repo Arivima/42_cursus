@@ -13,18 +13,19 @@ intra : [<i>avilla-m</i>](https://profile.intra.42.fr/users/avilla-m)
 | 06 | [push_swap](https://github.com/Arivima/42_push_swap.git)|86%| V3 | -  |
 | 07 | [fdf](https://github.com/Arivima/42_fdf.git)| 125%| V3|rotation, zoom, translation, color gradation, color change, projection change, reset |
 | 08 | [pipex](https://github.com/Arivima/42_pipex.git) | 100% | V3| - |
-| 09 | [minishell](https://github.com/Arivima/42_minishell.git)|101%| V3|
+| 09 | [minishell](https://github.com/Arivima/42_minishell.git)|101%| V3| user env variable |
 | 10 | [exam03](https://github.com/Arivima/42_exams/tree/main/exam03)|100%|-|-|
-| 11 | [philosophers](https://github.com/Arivima/42_philosophers.git)|125%| V3|
+| 11 | [philosophers](https://github.com/Arivima/42_philosophers.git)|125%| V3| version with semaphores and forks |
 | 12 | [exam04](https://github.com/Arivima/42_exams/tree/main/exam04)|100%|-|-|
-| 13 | [cub3D](https://github.com/Arivima/42_Cub3D.git)|125% :star2: | V3|
+| 13 | [cub3D](https://github.com/Arivima/42_Cub3D.git)|125% :star2: | V3| - | wall collision, minimap, door open/close, mouse rotation |
 | 14 | [Piscine CPP](https://github.com/Arivima/42_Piscine_CPP.git)|100%|-|-|
 | 15 | [netpractice](https://github.com/Arivima/42_NetPractice.git)|100%|-|-|
-| 16 | [ft_containers](https://github.com/Arivima/42_ft_containers.git)|125% :star2:|-|-|
+| 16 | [ft_containers](https://github.com/Arivima/42_ft_containers.git)|125% :star2:|-| Red-Black tree, set |
 | 17 | [inception](https://github.com/Arivima/42_inception.git)|100% :star2:|-|-|
 | 18 | [exam05](https://github.com/Arivima/42_exams/tree/main/exam05)|100%|-|-|
 | 19 | [webserv](https://github.com/Arivima/42_webserv.git)|110% :star2:|-| multiple cgi |
-| 20 | ft_transcendence|-|-|-|
+| 20 | [exam05](https://github.com/Arivima/42_exams/tree/main/exam06)|-|-|-|
+| 21 | ft_transcendence|-|-|-|
 
   Outstanding : :star2: 
   
@@ -34,3 +35,6 @@ Add a submodule</i>
 
     git submodule add [url] [name]
 
+Update all projects 
+
+    ./submodules.sh
