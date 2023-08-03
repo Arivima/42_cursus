@@ -1,8 +1,8 @@
 # 42_cursus  
 intra : [<i>avilla-m</i>](https://profile.intra.42.fr/users/avilla-m)
 
-| # | Project | Grade | Norm | Bonus | 
-| :-: | :- | :-: | - | - |
+| # | Project |  Grade  | Norm | Bonus | 
+| :-: | :- | :- | :-: | - |
 | -|[all_exams](https://github.com/Arivima/42_exams.git)|
 | 00 | Piscine C |-|-|-|
 | 01 | [libft](https://github.com/Arivima/42_libft.git)<t>|100%|V2|-|
