@@ -1,4 +1,3 @@
-#!bin/bash
 
 # script to update all 42_cursus individual projects into 
 

@@ -37,4 +37,4 @@ Add a submodule</i>
 
 Update all projects 
 
-    ./update_all.sh
+    chmod +x update_all.sh && ./update_all.sh
