@@ -25,7 +25,7 @@ intra : [<i>avilla-m</i>](https://profile.intra.42.fr/users/avilla-m)
 | 18 | [exam05](https://github.com/Arivima/42_exams/tree/main/exam05)|100%|-|-|
 | 19 | [webserv](https://github.com/Arivima/42_webserv.git)|110% :star2:|-| multiple cgi |
 | 20 | [exam06](https://github.com/Arivima/42_exams/tree/main/exam06)|-|-|-|
-| 21 | ft_transcendence|-|-|-|
+| 21 | ft_transcendence|[wip]|-|-|
 
   Outstanding : :star2: 
   
